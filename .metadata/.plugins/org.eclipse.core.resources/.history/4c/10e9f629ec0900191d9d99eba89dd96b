@@ -1,0 +1,14 @@
+package hello;
+
+import java.util.Scanner;
+
+public class hello {
+	
+	public static void main(String[] args) {
+		System.out.println("жпнд");
+//		Scanner in = new Scanner(System.in);
+//		System.out.println("echo:"+in.nextLine());
+		System.out.println(2+3+"=2+3="+(2+3));
+	}
+
+}

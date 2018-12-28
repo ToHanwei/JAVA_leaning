@@ -1,0 +1,16 @@
+package hello;
+
+import java.util.Scanner;
+
+public class hello {
+	
+	public static void main(String[] args) {
+		System.out.println("ÄãºÃ£¡");
+		Scanner in = new Scanner(System.in);
+//		System.out.println("echo:"+in.nextLine());
+		int price;
+		price = in.nextInt();
+		System.out.println("100-"+price+"="+(100-price));
+	}
+
+}
