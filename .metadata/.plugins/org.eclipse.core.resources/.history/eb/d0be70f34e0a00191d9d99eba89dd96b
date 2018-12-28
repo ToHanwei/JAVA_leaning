@@ -1,0 +1,19 @@
+package hello;
+
+import java.util.Scanner;
+
+public class trans {
+	private static Scanner in;
+
+	public static void main(String[] args) {
+		int foot;
+		int inch;
+		in = new Scanner(System.in);
+		foot = in.nextInt();
+		inch = in.nextInt();
+		System.out.println(10/3);
+		System.out.println("foot="+foot+", inch="+inch);
+		System.out.println((foot+inch/12)*0.3048);
+	}
+
+}

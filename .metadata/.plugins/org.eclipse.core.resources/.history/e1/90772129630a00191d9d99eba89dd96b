@@ -1,0 +1,11 @@
+package hello;
+
+public class priority {
+
+	public static void Main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}
